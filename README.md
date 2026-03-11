@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi 👋 I'm Xin Yi
 
-<!--
-**xinyi92/xinyi92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Engineer with years of experience building web and mobile applications.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Vue 2 / Vue 3
+- JavaScript / TypeScript
+- UniApp
+- Flutter
+- React / React Native
+- Node.js
+- REST APIs
+
+## Featured Project
+
+### Vue3 Admin Dashboard
+
+Small dashboard demo built with Vue 3 + TypeScript.
+
+Features:
+- Composition API
+- Reusable components
+- Composable state management
+- TypeScript typing
+
+🔗 Project Repo  
+https://github.com/xinyi92/vue3-dashboard
+
+## About Me
+
+- 9+ years frontend development experience
+- Focus on scalable frontend architecture
+- Experience working with Vue, React, and modern JS frameworks
